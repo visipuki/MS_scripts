@@ -1,0 +1,1 @@
+ipconfig | find "v4"
